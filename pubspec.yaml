@@ -1,7 +1,7 @@
 name: poisson_disc_x
 version: 0.0.0
 author: Argenti Apparatus <argentiapparatus@gmail.com>
-description: Experiments with Poisson Disc algorithms.
+description: Demonstration of an algorithm to create poisson point distributions.
 environment:
   sdk: '>=1.5.0'
 dependencies:
