@@ -1,0 +1,60 @@
+body {
+  margin:0;
+  padding:0;
+  background:#fff;
+}
+
+#display {
+  width:100vw;
+  height:100vh;
+  max-width:100vh;
+  max-height:100vw;
+  margin:auto;
+}
+
+svg {
+  display:block;
+  background:#fff;
+}
+
+/* For grids */
+.grid {
+  fill:none;
+  stroke:#000;
+  stroke-width:0.1px;
+}
+
+/* For sample points */
+.sample {
+  stroke:none;
+  fill:#633;
+  fill-opacity:0.5;
+}
+
+/* For subdivision */
+.cell {
+  stroke:#333;
+  stroke-width:0.1px;
+  fill:393;
+  fill-opacity:0.25;
+}
+
+.clear {
+  fill:none;
+}
+
+.inner, .outer {
+  stroke:none;
+  fill:#933;
+  opacity:0.5;
+}
+ .final {
+  stroke:none;
+  fill:#933;
+}
+
+/* For histograms */
+.bin {
+  stroke:none;
+  fill:#633;
+}

@@ -1,0 +1,14 @@
+# Files and directories created by pub
+.buildlog
+.packages
+.project
+.pub/
+build/
+**/packages/
+
+# Directory created by dartdoc
+doc/api/
+
+# Don't check this file in, even though this is an app package
+pubspec.lock
+

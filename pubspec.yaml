@@ -1,0 +1,10 @@
+name: poisson_disc_x
+version: 0.0.0
+author: Argenti Apparatus <argentiapparatus@gmail.com>
+description: Experiments with Poisson Disc algorithms.
+environment:
+  sdk: '>=1.5.0'
+dependencies:
+  browser: any
+  regular_grid: '>=0.1.0 <1.0.0'
+  vector_math: '>=1.4.0 <2.0.0'
