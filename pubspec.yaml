@@ -8,3 +8,4 @@ dependencies:
   browser: any
   regular_grid: '>=0.1.0 <1.0.0'
   vector_math: '>=1.4.0 <2.0.0'
+publish_to: none
